@@ -1,0 +1,4 @@
+fusion
+/home/adam/argonaut_ws/devel/.private/fusion/share/fusion/cmake/fusionConfig.cmake /home/adam/argonaut_ws/devel/share/fusion/cmake/fusionConfig.cmake
+/home/adam/argonaut_ws/devel/.private/fusion/share/fusion/cmake/fusionConfig-version.cmake /home/adam/argonaut_ws/devel/share/fusion/cmake/fusionConfig-version.cmake
+/home/adam/argonaut_ws/devel/.private/fusion/lib/pkgconfig/fusion.pc /home/adam/argonaut_ws/devel/lib/pkgconfig/fusion.pc
