@@ -2,10 +2,14 @@
 
 import rospy
 
+
+def fusion():
+
 def listen():
 
     rospy.init_node('fusion', anonymous=True)
 
+    rospy.Subscriber('topic', topic_type, callback)
     rospy.Subscriber('topic', topic_type, callback)
 
     rospy.spin()
